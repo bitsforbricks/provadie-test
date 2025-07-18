@@ -1,0 +1,68 @@
+{
+  "selectedReferences": [
+    {
+      "id": "5ffee676d28d2e5bf478b168",
+      "bagID": "0202200000427999",
+      "title": "Dokter H.J. Jagerstraat 44",
+      "street": "Dokter H.J. Jagerstraat",
+      "houseNumber": 44,
+      "houseNumberAddition": "",
+      "houseLetter": "",
+      "zipCode": "6842BX",
+      "city": "Arnhem",
+      "municipality": "Arnhem",
+      "province": "Gelderland",
+      "latitude": 51.960273,
+      "longitude": 5.876565,
+      "comparabilityType": "comparable"
+    },
+    {
+      "id": "5ffee676d28d2e5bf478b145",
+      "bagID": "0202200000316233",
+      "title": "I.W.J. Vos de Waelstraat 10",
+      "street": "I.W.J. Vos de Waelstraat",
+      "houseNumber": 10,
+      "houseNumberAddition": "",
+      "houseLetter": "",
+      "zipCode": "6842AW",
+      "city": "Arnhem",
+      "municipality": "Arnhem",
+      "province": "Gelderland",
+      "latitude": 51.959441,
+      "longitude": 5.884426,
+      "comparabilityType": "comparable"
+    },
+    {
+      "id": "60c12e46b4e10cf31722547c",
+      "bagID": "0202200000308608",
+      "fundaLink": "https://www.funda.nl/koop/verkocht/arnhem/huis-41902455-klapstraat-2/?navigateSource=resultlist",
+      "title": "Klapstraat 2",
+      "street": "Klapstraat",
+      "houseNumber": 2,
+      "houseNumberAddition": "",
+      "houseLetter": "",
+      "zipCode": "6842AE",
+      "city": "Arnhem",
+      "municipality": "Arnhem",
+      "province": "Gelderland",
+      "latitude": 51.958585,
+      "longitude": 5.881949,
+      "comparabilityType": "notComparable"
+    }
+  ],
+  "valuation": {
+    "title": "Tappisstraat 26",
+    "street": "Tappisstraat",
+    "houseNumber": 26,
+    "houseNumberAddition": "",
+    "houseLetter": "",
+    "zipCode": "6842AS",
+    "city": "Arnhem",
+    "municipality": "Arnhem",
+    "province": "Gelderland",
+    "buildingYear": 1990,
+    "latitude": 51.95891072,
+    "longitude": 5.88620637,
+    "isArchived": false
+  }
+}

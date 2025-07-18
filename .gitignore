@@ -1,0 +1,16 @@
+.DS_Store
+/node_modules
+# IDEs
+.idea
+.vscode
+
+# Configs
+/dist
+/.env
+
+# Puppeteer cache
+.cache
+
+# Yarn
+.yarn/*
+!.yarn/patches

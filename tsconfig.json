@@ -1,0 +1,29 @@
+{
+  "extends": "./base.tsconfig.json",
+  "compilerOptions": {
+    "module": "node16",
+    "sourceMap": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node16",
+    "importHelpers": true,
+    "allowJs": true,
+    "outDir": "dist",
+    "rootDir": "./src",
+    "tsBuildInfoFile": "dist/tsconfig.tsbuildinfo",
+    "target": "ES2023",
+    // Note: DOM is included for puppeteer :S
+    "lib": [
+      "dom",
+      "ES2023"
+    ],
+    // overrides for base codestoyl:
+    "skipLibCheck": false,
+    "strict": false, // todo: enable strict
+    "noEmit": false,
+    "isolatedModules": false,
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
